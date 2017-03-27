@@ -7,6 +7,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIY.BB8.Web", "DIY.BB8.Web\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIY.BB8.UnitTests", "DIY.BB8.UnitTests\DIY.BB8.UnitTests.csproj", "{5C78D783-89DE-45E6-8800-4D539CBF07C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIY.BB8.Business", "DIY.BB8.Business\DIY.BB8.Business.csproj", "{A2A8557F-B2E7-4B31-A962-C05ED94C2101}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Applications", "1. Applications", "{8F6B89CA-2D90-4887-B229-9479E6024231}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Libraries", "2. Libraries", "{69A719F0-6455-4F88-BD95-25D399B30DA9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Tests", "3. Tests", "{3D54A454-4103-473C-BDB4-58FB11DD5B73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,8 +29,17 @@ Global
 		{5C78D783-89DE-45E6-8800-4D539CBF07C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C78D783-89DE-45E6-8800-4D539CBF07C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C78D783-89DE-45E6-8800-4D539CBF07C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2A8557F-B2E7-4B31-A962-C05ED94C2101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A8557F-B2E7-4B31-A962-C05ED94C2101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A8557F-B2E7-4B31-A962-C05ED94C2101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A8557F-B2E7-4B31-A962-C05ED94C2101}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{656F803A-5D0C-494E-8BD6-A435C6110D1C} = {8F6B89CA-2D90-4887-B229-9479E6024231}
+		{5C78D783-89DE-45E6-8800-4D539CBF07C8} = {3D54A454-4103-473C-BDB4-58FB11DD5B73}
+		{A2A8557F-B2E7-4B31-A962-C05ED94C2101} = {69A719F0-6455-4F88-BD95-25D399B30DA9}
 	EndGlobalSection
 EndGlobal

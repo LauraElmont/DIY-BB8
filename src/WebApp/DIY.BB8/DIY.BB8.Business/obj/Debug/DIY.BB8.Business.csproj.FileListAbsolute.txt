@@ -1,0 +1,5 @@
+C:\Git\DIY-BB8\src\WebApp\DIY.BB8\DIY.BB8.Business\bin\Debug\DIY.BB8.Business.dll
+C:\Git\DIY-BB8\src\WebApp\DIY.BB8\DIY.BB8.Business\bin\Debug\DIY.BB8.Business.pdb
+C:\Git\DIY-BB8\src\WebApp\DIY.BB8\DIY.BB8.Business\obj\Debug\DIY.BB8.Business.csprojResolveAssemblyReference.cache
+C:\Git\DIY-BB8\src\WebApp\DIY.BB8\DIY.BB8.Business\obj\Debug\DIY.BB8.Business.dll
+C:\Git\DIY-BB8\src\WebApp\DIY.BB8\DIY.BB8.Business\obj\Debug\DIY.BB8.Business.pdb
